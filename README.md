@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/41ba1319a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/41ba1319a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshita-mathur-41ba1319a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Harshita Mathur" height="30" width="40" /></a>
 <a href="https://instagram.com/__harshitamathur__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__harshitamathur__" height="30" width="40" /></a>
 <a href="https://medium.com/@harshitamathur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshitamathur" height="30" width="40" /></a>
 </p>
