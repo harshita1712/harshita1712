@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGOC1r6X_PuNQ/profile-displaybackgroundimage-shrink_200_800/0/1616490209600?e=1622073600&v=beta&t=l8-jaekidXvA6BztHqoSapuPcmn3zypAcb4UtF0ZAuk)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEnHvVh-87NQw/profile-displaybackgroundimage-shrink_200_800/0/1617645113123?e=1624492800&v=beta&t=s85P-u8HQs2OhPDN0Fh2w21Bx1bERauNtaa6nZCA4Uw)
 
 <h1 align="center">Hey Buddy 👋, I'm Harshita Mathur</h1>
 <h3 align="center">A striving developer, just trying to figure out random stuff</h3>
