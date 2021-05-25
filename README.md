@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey Buddy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Harshita Mathur</h1>
 <h3 align="center">A striving developer, just trying to figure out random stuff</h3>
-<img align="right" alt="Coding" width="465" height="500" src="https://i.postimg.cc/brG504Cc/Internet-on-the-go.gif">
+<img align="right" alt="Coding" width="470" height="500" src="https://i.postimg.cc/brG504Cc/Internet-on-the-go.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita1712&label=Profile%20views&color=0e75b6&style=flat" alt="harshita1712" />
   
