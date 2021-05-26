@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **harshitamathur17121@gmail.com**
+- 📫 Reach out to me **harshitamathur17121@gmail.com**
 
 - ⚡ Fun fact **I am not superstitious, but I am a little stitious**
 
